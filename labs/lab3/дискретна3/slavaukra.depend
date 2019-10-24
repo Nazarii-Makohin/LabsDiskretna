@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571855301 source:c:\users\-\desktop\slavaukra\main.cpp
+	<iostream>
+	<string>
+	<locale.h>
+	<math.h>
+

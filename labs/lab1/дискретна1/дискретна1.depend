@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569359758 source:c:\users\-\desktop\дискретна1\main.cpp
+	<iostream>
+	<locale.h>
+	<math.h>
+
