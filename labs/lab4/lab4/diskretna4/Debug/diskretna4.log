@@ -1,0 +1,13 @@
+﻿  diskretna4.cpp
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(70,14): error C2014:  preprocessor command must start as first nonwhite space
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(84,2): error C2601:  'vvid': local function definitions are illegal
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(61): message :  this line contains a '{' which has not yet been matched
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(112,2): error C2601:  'vkluchene': local function definitions are illegal
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(61): message :  this line contains a '{' which has not yet been matched
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(98,28): error C2065:  'i': undeclared identifier
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(102,6): error C2065:  'temp': undeclared identifier
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(104,17): error C2065:  'temp': undeclared identifier
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(121,1): error C2084:  function 'bool minn(int,edge *,int,int *,int)' already has a body
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(60): message :  see previous definition of 'minn'
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(140,23): error C2014:  preprocessor command must start as first nonwhite space
+C:\Users\-\Desktop\4лабадискретна\diskretna4\diskretna4.cpp(224): error C1075:  '{': no matching token found
